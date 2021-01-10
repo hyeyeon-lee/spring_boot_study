@@ -1,2 +1,2 @@
-# spring_study
+# spring boot study
 spring boot
